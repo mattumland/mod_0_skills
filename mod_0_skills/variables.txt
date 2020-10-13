@@ -1,0 +1,19 @@
+var food = "Taco Sandwich";
+var isDelicious = true;
+
+food = "Pizza";
+
+var num2 = 2;
+var num7 = 120;
+
+var quotient = num7/num2;
+
+var songs = ["WAP", "Something", "Superstition"];
+
+songs.shift(); //remove the first object in the array
+
+/* I'm not sure what question 10 is asking so I've included two responses to cover my bases.*/
+
+console.log ("How many characters are in " + food + "?"); //Ask how many characters are in the food string.
+
+charCount = food.length(); // Create a variable that contains the number of code units in the food string.
