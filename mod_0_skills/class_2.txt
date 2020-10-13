@@ -1,0 +1,15 @@
+Class: bar
+
+Attributes:
+
+numberOfStools(integer)
+isClean (boolen)
+numberOfLimes (integer)
+bottleStock (array)
+
+Methods:
+
+addStool (add 1 to value of numberOfStools)
+cutLime (add 4 to value of numberOfLimes)
+listStock (log the contents of bottleStock)
+addBottle (add a string to bottleStock)
