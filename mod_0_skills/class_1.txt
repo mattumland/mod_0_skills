@@ -1,0 +1,15 @@
+Class: table
+
+Attributes:
+
+numberOfSeats (integer)
+isFull (boolen)
+height (integer)
+section (string)
+
+Methods:
+
+seatFolks (change isFull to true)
+addChair (add 1 to the value of numberOfSeats)
+relocate (change the value of section)
+removeChair (remove 1 from the value of numberOfSeats)
