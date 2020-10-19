@@ -1,0 +1,15 @@
+Class: OutsideBar
+
+Attributes:
+
+numberOfStools(15)
+isClean (true)
+numberOfLimes (40)
+bottleStock ("Whiskey ", "Gin ", "Beer ")
+
+Methods:
+
+outsideBar.addStool (change the value of numberOfStools to 16)
+outsideBar.cutLime (change the value of numberOfLimes to 44)
+outsideBar.listStock (log "Whiskey Gin Beer " to the terminal)
+outsideBar.addBottle (add "vodka" to the bottleStock array)
